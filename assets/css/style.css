@@ -123,6 +123,7 @@ animation-fill-mode: forwards;
     padding-top: 30px;
     width: 33%;
     float: left;
+    background-color: blue;
 }
 
 #right-about {
